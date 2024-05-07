@@ -1,11 +1,11 @@
 
-**Module 9 Challenge README**
+*Module 9 Challenge README*
 
-**Student Information**
+*Student Information*
 - Student Name: Kevin Ngala
 - Training Institution: George Washington University Analytics Bootcamp
 
-**Background**
+*Background*
 
 As a new data engineer at Pewlett Hackard, Kevin Ngala from George Washington University Analytics Bootcamp tackled the Module 9 Challenge. Utilizing combined learning tools such as PostgreSQL and pgAdmin, as well as Xpert Learning Assistant and ChatGPT, Kevin successfully completed the project. 
 
