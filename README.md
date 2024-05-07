@@ -1,5 +1,5 @@
 
-##**Module 9 Challenge README**
+##Module 9 Challenge README
 
 #**Student Information**
 - Student Name: Kevin Ngala
